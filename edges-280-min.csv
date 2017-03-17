@@ -1,0 +1,6 @@
+Source,Target,Type,ID,Label,Weight
+5,75,Directed,1,,1
+74,4,Directed,2,,1
+74,75,Directed,3,,1
+75,5,Directed,4,,1
+75,74,Directed,5,,1
